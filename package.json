@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mattkrick/redux-optimistic-ui.git"
+    "url": "git+https://github.com/RaitoBezarius/redux-optimistic-ui.git"
   },
   "keywords": [
     "redux",
@@ -23,9 +23,9 @@
   "author": "Matt Krick <matt.krick@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mattkrick/redux-optimistic-ui/issues"
+    "url": "https://github.com/RaitoBezarius/redux-optimistic-ui/issues"
   },
-  "homepage": "https://github.com/mattkrick/redux-optimistic-ui#readme",
+  "homepage": "https://github.com/RaitoBezarius/redux-optimistic-ui#readme",
   "dependencies": {
     "immutable": "^3.7.6"
   },
